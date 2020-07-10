@@ -1,0 +1,964 @@
+Character Name: Pikachu
+Character Level: 15
+Mental: 4
+Combat: 4
+Resistance: 2
+Utility: 3
+Special: 2
+
+Character Name: Eevee
+Character Level: 15
+Mental: 4
+Combat: 4
+Resistance: 1
+Utility: 2
+Special: 4
+
+Character Name: Darius
+Character Level: 15
+Mental: 2
+Resistance: 3
+Utility: 7
+Special: 3
+
+Character Name: Draven
+Character Level: 15
+Mental: 3
+Combat: 4
+Resistance: 1
+Utility: 4
+Special: 3
+
+Character Name: Soraka
+Character Level: 15
+Mental: 3
+Combat: 3
+Resistance: 3
+Utility: 1
+Special: 5
+
+Character Name: Syndra
+Character Level: 1000
+Mental: 226
+Combat: 191
+Resistance: 186
+Utility: 184
+Special: 213
+
+Character Name: Kindred
+Character Level: 15000000
+Mental: 2999442
+Combat: 3000218
+Resistance: 2999492
+Utility: 3000000
+Special: 3000848
+
+Character Name: Pikachu
+Character Level: 15
+Combat: 8
+Resistance: 1
+Utility: 6
+
+Character Name: Pikachu
+Character Level: 15
+Mental: 1
+Combat: 7
+Resistance: 0
+Utility: 7
+Special: 0
+
+Character Name: Eevee
+Character Level: 15
+Mental: 1
+Combat: 8
+Resistance: 0
+Utility: 6
+Special: 0
+
+Character Name: Darius
+Character Level: 15
+Mental: 0
+Combat: 8
+Resistance: 0
+Utility: 7
+Special: 0
+
+Character Name: Draven
+Character Level: 15
+Mental: 0
+Combat: 9
+Resistance: 0
+Utility: 6
+Special: 0
+
+Character Name: Soraka
+Character Level: 30
+Mental: 0
+Combat: 9
+Resistance: 0
+Utility: 20
+Special: 1
+
+Character Name: Soraka
+Character Level: 1000
+Mental: 27
+Combat: 599
+Resistance: 14
+Utility: 352
+Special: 8
+
+Character Name: Pikachu
+Character Level: 15
+Mental: 2
+Combat: 2
+Resistance: 1
+Utility: 6
+Special: 4
+
+Character Name: Soraka
+Character Level: 1000
+Mental: 183
+Combat: 95
+Resistance: 159
+Utility: 410
+Special: 153
+
+Character Name: Sona
+Character Level: 1000
+Mental: 201
+Combat: 81
+Resistance: 174
+Utility: 404
+Special: 140
+
+Character Name: Darius
+Character Level: 1000
+Mental: 162
+Combat: 107
+Resistance: 169
+Utility: 410
+Special: 152
+
+Character Name: Draven
+Character Level: 1000
+Mental: 178
+Combat: 78
+Resistance: 164
+Utility: 436
+Special: 144
+
+Character Name: MDMA
+Character Level: 5000
+Mental: 899
+Combat: 431
+Resistance: 881
+Utility: 2050
+Special: 739
+
+Character Name: Marijuana
+Character Level: 10000
+Mental: 1730
+Combat: 892
+Resistance: 1821
+Utility: 4080
+Special: 1477
+
+Character Name: Exstacy
+Character Level: 5000
+Mental: 86
+Combat: 4912
+Resistance: 2
+Utility: 0
+Special: 0
+
+Character Name: Trevor Phillips
+Character Level: 10000
+Mental: 179
+Combat: 9821
+Resistance: 0
+Utility: 0
+Special: 0
+
+Character Name: Not a fighter at all
+Character Level: 20000
+Mental: 376
+Combat: 19619
+Resistance: 5
+Utility: 0
+Special: 0
+
+Character Name: Sorka
+Character Level: 10000
+Mental: 890
+Combat: 1792
+Resistance: 802
+Utility: 5834
+Special: 682
+
+Character Name: Sona
+Character Level: 10000
+Mental: 861
+Combat: 1880
+Resistance: 747
+Utility: 5810
+Special: 702
+
+Character Name: Graves
+Character Level: 10000
+Mental: 840
+Combat: 1787
+Resistance: 801
+Utility: 5880
+Special: 692
+
+Character Name: Darius is super duper fed
+Character Level: 100000
+Mental: 8773
+Combat: 18208
+Resistance: 7768
+Utility: 58485
+Special: 6766
+
+Character Name: Draven is feeding
+Character Level: 100000
+Mental: 8575
+Combat: 18033
+Resistance: 7837
+Utility: 58806
+Special: 6749
+
+Character Name: Darius
+Character Level: 15
+Mental: 1
+Combat: 0
+Resistance: 3
+Utility: 9
+Special: 2
+
+Character Name: 100000
+Character Level: 100000
+Mental: 7221
+Combat: 1877
+Resistance: 14656
+Utility: 56667
+Special: 19579
+
+Character Name: Draven
+Character Level: 100000
+Mental: 7394
+Combat: 1703
+Resistance: 14453
+Utility: 57046
+Special: 19404
+
+Character Name: Pikachu
+Character Level: 14
+Mental: 0
+Combat: 0
+Resistance: 1
+Utility: 7
+Special: 6
+
+Character Name: Eevee
+Character Level: 999999
+Mental: 21436
+Combat: 1309
+Resistance: 136231
+Utility: 499382
+Special: 341641
+
+Character Name: Darius
+Character Level: 999999
+Mental: 21582
+Combat: 1360
+Resistance: 135372
+Utility: 500391
+Special: 341294
+
+Character Name: Bard's Meeps
+Character Level: 1000
+Mental: 25
+Combat: 1
+Resistance: 137
+Utility: 484
+Special: 353
+
+Character Name: Pikachu
+Character Level: 15
+Mental: 2
+Combat: 5
+Resistance: 0
+Utility: 0
+Special: 8
+
+Character Name: Darius
+Character Level: 1000
+Mental: 225
+Combat: 257
+Resistance: 272
+Utility: 0
+Special: 246
+
+Character Name: Draven
+Character Level: 1000
+Mental: 230
+Combat: 262
+Resistance: 247
+Utility: 0
+Special: 261
+
+Character Name: Soraka
+Character Level: 10000
+Mental: 2525
+Combat: 2469
+Resistance: 2527
+Utility: 0
+Special: 2479
+
+Character Name: Darius
+Character Level: 1000
+Mental: 187
+Combat: 194
+Resistance: 210
+Utility: 205
+Special: 204
+
+Character Name: Draven
+Character Level: 1000
+Mental: 204
+Combat: 189
+Resistance: 204
+Utility: 206
+Special: 197
+
+Character Name: Pikachu
+Character Level: 1000
+Mental: 191
+Combat: 202
+Resistance: 212
+Utility: 206
+Special: 189
+
+Character Name: Darius
+Character Level: 1000
+Mental: 179
+Combat: 227
+Resistance: 202
+Utility: 201
+Special: 191
+
+Character Name: Draven
+Character Level: 1000
+Mental: 194
+Combat: 195
+Resistance: 197
+Utility: 212
+Special: 202
+
+Character Name: Soraka
+Character Level: 1000
+Mental: 216
+Combat: 170
+Resistance: 214
+Utility: 193
+Special: 207
+
+Character Name: Sona
+Character Level: 10000
+Mental: 2055
+Combat: 1975
+Resistance: 1974
+Utility: 2014
+Special: 1982
+
+Character Name: Darius
+Character Level: 1000
+Mental: 256
+Combat: 260
+Resistance: 241
+Utility: 0
+Special: 243
+
+Character Name: Draven
+Character Level: 1000
+Mental: 247
+Combat: 264
+Resistance: 245
+Utility: 0
+Special: 244
+
+Character Name: Soraka
+Character Level: 1000000
+Mental: 250193
+Combat: 250282
+Resistance: 249754
+Utility: 0
+Special: 249771
+
+Character Name: Darius
+Character Level: 1000
+Mental: 239
+Combat: 274
+Resistance: 239
+Utility: 0
+Special: 248
+
+Character Name: Darius
+Character Level: 1000
+Mental: 216
+Combat: 175
+Resistance: 203
+Utility: 202
+Special: 204
+
+Character Name: Draven
+Character Level: 1000
+Mental: 187
+Combat: 195
+Resistance: 201
+Utility: 208
+Special: 209
+
+Character Name: Darius
+Character Level: 1000
+Mental: 192
+Combat: 198
+Resistance: 181
+Utility: 217
+Special: 212
+
+Character Name: Draven
+Character Level: 1000
+Mental: 192
+Combat: 198
+Resistance: 181
+Utility: 217
+Special: 212
+
+Character Name: Soraka
+Character Level: 1000
+Mental: 192
+Combat: 198
+Resistance: 181
+Utility: 217
+Special: 212
+
+Character Name: Darius
+Character Level: 1000
+Mental: 215
+Combat: 207
+Resistance: 176
+Utility: 196
+Special: 206
+
+Character Name: Draven
+Character Level: 1000
+Mental: 191
+Combat: 181
+Resistance: 199
+Utility: 219
+Special: 210
+
+Character Name: Lux
+Character Level: 1000
+Mental: 189
+Combat: 211
+Resistance: 195
+Utility: 201
+Special: 204
+
+Character Name: NPC 1
+Character Level: 1000
+Mental: 183
+Combat: 210
+Resistance: 201
+Utility: 218
+Special: 188
+
+Character Name: NPC 2
+Character Level: 1000
+Mental: 195
+Combat: 214
+Resistance: 189
+Utility: 199
+Special: 203
+
+Character Name: NPC 3
+Character Level: 1000
+Mental: 210
+Combat: 189
+Resistance: 188
+Utility: 194
+Special: 219
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 45
+37 TP.
+Combat: 38
+5 TP.
+Resistance: 42
+16 TP.
+Utility: 31
+39 TP.
+Special: 44
+17 TP.
+
+Character Name: Eevee
+Character Level: 200
+Mental: 30
+24 TP.
+Combat: 44
+34 TP.
+Resistance: 40
+13 TP.
+Utility: 41
+26 TP.
+Special: 45
+39 TP.
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 49
+25 TP.
+Combat: 37
+27 TP.
+Resistance: 38
+36 TP.
+Utility: 35
+23 TP.
+Special: 41
+23 TP.
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 33
+32 TP.
+Combat: 52
+30 TP.
+Resistance: 47
+31 TP.
+Utility: 39
+21 TP.
+Special: 29
+15 TP.
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 40
+26 TP.
+Combat: 36
+13 TP.
+Resistance: 38
+20 TP.
+Utility: 41
+11 TP.
+Special: 45
+58 TP.
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 45
+45 TP.
+Combat: 39
+16 TP.
+Resistance: 41
+43 TP.
+Utility: 37
+21 TP.
+Special: 38
+14 TP.
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 32
+38 TP.
+Combat: 36
+37 TP.
+Resistance: 58
+31 TP.
+Utility: 45
+41 TP.
+Special: 29
+19 TP.
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 38
+26 TP.
+Combat: 40
+16 TP.
+Resistance: 33
+33 TP.
+Utility: 44
+15 TP.
+Special: 45
+33 TP.
+
+After combining trait and skill points and rerolling:
+Mental: 48
+26 TP.
+Combat: 46
+16 TP.
+Resistance: 41
+33 TP.
+Utility: 37
+15 TP.
+Special: 35
+33 TP.
+Character Name: YPikachu
+Character Level: 200
+Mental: 44
+44 TP.
+Combat: 46
+39 TP.
+Resistance: 36
+31 TP.
+Utility: 41
+33 TP.
+Special: 33
+27 TP.
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 42
+25 TP.
+Combat: 34
+12 TP.
+Resistance: 38
+22 TP.
+Utility: 53
+37 TP.
+Special: 33
+21 TP.
+
+Character Name: Eevee
+Character Level: 200
+Mental: 38
+31 TP.
+Combat: 36
+14 TP.
+Resistance: 30
+18 TP.
+Utility: 48
+15 TP.
+Special: 48
+54 TP.
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 49
+26 TP.
+Combat: 49
+28 TP.
+Resistance: 29
+24 TP.
+Utility: 37
+32 TP.
+Special: 36
+39 TP.
+
+After combining trait and skill points and rerolling:
+Mental: 77
+26 TP.
+Combat: 37
+28 TP.
+Resistance: 26
+24 TP.
+Utility: 48
+32 TP.
+Special: 55
+39 TP.
+Character Name: Pikachu
+Character Level: 200
+Mental: 27
+15 TP(1d20 + 1d12)
+Combat: 39
+10 TP(2d20 + 1d10)
+Resistance: 43
+12 TP(2d20 + 1d12)
+Utility: 42
+16 TP(2d20 + 1d12)
+Special: 49
+34 TP(3d20 + 1d6)
+
+After combining trait and skill points and rerolling:
+Mental: 13
+15 TP.
+Combat: 31
+10 TP.
+Resistance: 29
+12 TP.
+Utility: 30
+16 TP.
+Special: 27
+34 TP.
+Character Name: Eevee
+Character Level: 200
+Mental: 50
+29 TP(3d20 + 1d8)
+Combat: 47
+20 TP(3d20 + 1d4)
+Resistance: 47
+47 TP(3d20 + 1d4)
+Utility: 25
+18 TP(1d20 + 1d12)
+Special: 31
+14 TP(2d20 + 1d4)
+
+After combining trait and skill points and rerolling:
+Mental: 23
+29 TP(3d20 + 1d8)
+Combat: 41
+20 TP(3d20 + 1d4)
+Resistance: 35
+47 TP(3d20 + 1d4)
+Utility: 18
+18 TP(1d20 + 1d12)
+Special: 22
+14 TP(2d20 + 1d4)
+Character Name: Pikachu
+Character Level: 200
+Mental: 40
+19 TP (2d20 + 1d12)
+Combat: 33
+25 TP (2d20 + 1d6)
+Resistance: 34
+40 TP (2d20 + 1d6)
+Utility: 47
+34 TP (3d20 + 1d4)
+Special: 46
+47 TP (3d20 + 1d4)
+
+After combining trait and skill points and rerolling:
+Mental: 31
+19 TP (2d20 + 1d12)
+Combat: 24
+25 TP (2d20 + 1d6)
+Resistance: 26
+40 TP (2d20 + 1d6)
+Utility: 36
+34 TP (3d20 + 1d4)
+Special: 21
+47 TP (3d20 + 1d4)
+Character Name: Pikachu
+Character Level: 200
+Mental: 33
+27 TP (2d20 + 1d6)
+Combat: 40
+26 TP (2d20 + 1d12)
+Resistance: 44
+40 TP (2d20 + 1d12)
+Utility: 36
+43 TP (2d20 + 1d8)
+Special: 47
+32 TP (3d20 + 1d4)
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 35
+36 TP (2d20 + 1d8)
+Combat: 33
+9 TP (2d20 + 1d6)
+Resistance: 49
+16 TP (3d20 + 1d6)
+Utility: 52
+28 TP (3d20 + 1d8)
+Special: 31
+25 TP (2d20 + 1d4)
+
+Character Name: Eevee
+Character Level: 20
+Mental: 4
+2 TP (1d6)
+Combat: 3
+3 TP (1d6)
+Resistance: 5
+1 TP (1d8)
+Utility: 4
+1 TP (1d6)
+Special: 4
+1 TP (1d6)
+
+Character Name: Eevee
+Character Level: 200
+Mental: 33
+41 TP (2d20 + 1d6)
+Combat: 48
+45 TP (3d20 + 1d6)
+Resistance: 37
+33 TP (2d20 + 1d8)
+Utility: 39
+17 TP (2d20 + 1d10)
+Special: 43
+33 TP (2d20 + 1d12)
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 36
+18 TP (2d20 + 1d8)
+Combat: 47
+43 TP (3d20 + 1d4)
+Resistance: 36
+36 TP (2d20 + 1d8)
+Utility: 41
+22 TP (2d20 + 1d12)
+Special: 40
+22 TP (2d20 + 1d12)
+
+Character Name: Eevee
+Character Level: 200
+Mental: 42
+28 TP (2d20 + 1d12)
+Combat: 33
+30 TP (2d20 + 1d6)
+Resistance: 49
+40 TP (3d20 + 1d6)
+Utility: 45
+63 TP (3d20)
+Special: 31
+16 TP (2d20 + 1d4)
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 48
+27 TP (3d20 + 1d6)
+Combat: 36
+17 TP (2d20 + 1d8)
+Resistance: 33
+39 TP (2d20 + 1d6)
+Utility: 44
+7 TP (2d20 + 1d12)
+Special: 39
+7 TP (2d20 + 1d10)
+
+Character Name: Eevee
+Character Level: 200
+Mental: 42
+20 TP (2d20 + 1d12)
+Combat: 48
+22 TP (3d20 + 1d6)
+Resistance: 40
+25 TP (2d20 + 1d12)
+Utility: 33
+39 TP (2d20 + 1d6)
+Special: 37
+26 TP (2d20 + 1d8)
+
+Character Name: Cyndaquil
+Character Level: 200
+Mental: 49
+47 TP (3d20 + 1d6)
+Combat: 37
+22 TP (2d20 + 1d8)
+Resistance: 46
+13 TP (3d20 + 1d4)
+Utility: 41
+28 TP (2d20 + 1d12)
+Special: 27
+26 TP (1d20 + 1d12)
+
+Character Name: Quilava
+Character Level: 400
+Mental: 85
+53 TP (5d20 + 1d12)
+Combat: 72
+30 TP (4d20 + 1d12)
+Resistance: 85
+68 TP (5d20 + 1d12)
+Utility: 77
+29 TP (5d20 + 1d4)
+Special: 81
+57 TP (5d20 + 1d8)
+
+Character Name: Pikachu
+Character Level: 200
+Mental: 34
+14 TP (2d20 + 1d6)
+Combat: 36
+2 TP (2d20 + 1d8)
+Resistance: 33
+20 TP (2d20 + 1d6)
+Utility: 42
+30 TP (2d20 + 1d12)
+Special: 55
+12 TP (3d20 + 1d12)
+
+Character Name: Eevee
+Character Level: 200
+Mental: 39
+17 TP (2d20 + 1d10)
+Combat: 52
+47 TP (3d20 + 1d8)
+Resistance: 33
+17 TP (2d20 + 1d6)
+Utility: 41
+10 TP (2d20 + 1d12)
+Special: 35
+33 TP (2d20 + 1d8)
+
+Character Name: Cyndaquil
+Character Level: 200
+Mental: 46
+46 TP (3d20 + 1d4)
+Combat: 37
+22 TP (2d20 + 1d8)
+Resistance: 30
+33 TP (2d20)
+Utility: 41
+33 TP (2d20 + 1d12)
+Special: 46
+16 TP (3d20 + 1d4)
+
+Character Name: Quilava
+Character Level: 300
+Mental: 50
+23 TP (3d20 + 1d8)
+Combat: 60
+64 TP (4d20)
+Resistance: 81
+62 TP (5d20 + 1d8)
+Utility: 60
+39 TP (4d20)
+Special: 49
+47 TP (3d20 + 1d6)
+
+Character Name: Typhlosion
+Character Level: 400
+Mental: 83
+41 TP (5d20 + 1d10)
+Combat: 90
+54 TP (6d20)
+Resistance: 80
+73 TP (5d20 + 1d8)
+Utility: 81
+33 TP (5d20 + 1d8)
+Special: 66
+37 TP (4d20 + 1d8)
+
+Character Name: Pikachu
+Character Level: 200
+Combat: 46
+27 TP (3d20 + 1d4)
+Mental: 46
+58 TP (3d20 + 1d4)
+Resistance: 30
+21 TP (2d20)
+Special: 41
+23 TP (2d20 + 1d12)
+Utility: 37
+9 TP (2d20 + 1d8)
+
+Character Name: Eevee
+Character Level: 200
+Combat: 36
+34 TP (2d20 + 1d8)
+Mental: 45
+12 TP (3d20)
+Resistance: 43
+17 TP (2d20 + 1d12)
+Special: 36
+27 TP (2d20 + 1d8)
+Utility: 40
+12 TP (2d20 + 1d12)
+

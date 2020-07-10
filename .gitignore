@@ -1,0 +1,6 @@
+*.zip
+Debug/
+Release/
+CharacterRoller/Debug/
+CharacterRoller/Release/
+.vs/
