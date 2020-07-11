@@ -27,12 +27,6 @@ Character::Character(uint64_t level, std::string name, std::shared_ptr<std::mt19
 	this->characterName = name;
 	std::uniform_int_distribution<int16_t> distribution(0, 4);
 
-	std::ofstream outputFile("Character.txt", std::ofstream::out | std::ofstream::app
-	);
-
-	outputFile << "Character Name: " << name << '\n';
-	outputFile << "Character Level: " << level << '\n';
-
 	this->skills[Skill::Combat] = 0;
 	this->skills[Skill::Mental] = 0;
 	this->skills[Skill::Resistance] = 0;
@@ -43,8 +37,13 @@ Character::Character(uint64_t level, std::string name, std::shared_ptr<std::mt19
 	for (uint64_t toDistribute = level; toDistribute > 0; --toDistribute) {
 		Skill theSkill = getSkillEnumFromNumber(distribution(*rng));
 		this->skills[theSkill] += 1;
-	}
+	} 
 
+	rollTraits(rng);
+
+}
+
+void Character::rollTraits(std::shared_ptr<std::mt19937> rng) {
 	std::pair<uint64_t, std::string> combatRoll = rollTraitPoints(this->skills[Skill::Combat], rng);
 	std::pair<uint64_t, std::string> mentalRoll = rollTraitPoints(this->skills[Skill::Mental], rng);
 	std::pair<uint64_t, std::string> resistanceRoll = rollTraitPoints(this->skills[Skill::Resistance], rng);
@@ -66,12 +65,16 @@ Character::Character(uint64_t level, std::string name, std::shared_ptr<std::mt19
 	for (auto it = this->skills.begin(); it != skills.end(); ++it) {
 		std::cout << getSkillTextFromEnum(it->first) << ": " << it->second << std::endl;
 		std::cout << this->traits[it->first] << " TP" << " (" << this->rolls[it->first] << ')' << std::endl;
-		outputFile << getSkillTextFromEnum(it->first) << ": " << it->second << '\n';
-		outputFile << this->traits[it->first] << " TP" << " (" << this->rolls[it->first] << ")\n";
 	}
+}
 
-	outputFile << std::endl;
 
-	outputFile.close();
+void Character::combineAndRerollTraits(std::shared_ptr<std::mt19937> rng) {
+	this->skills[Skill::Combat] += this->traits[Skill::Combat];
+	this->skills[Skill::Mental] += this->traits[Skill::Mental];
+	this->skills[Skill::Resistance] += this->traits[Skill::Resistance];
+	this->skills[Skill::Special] += this->traits[Skill::Special];
+	this->skills[Skill::Utility] += this->traits[Skill::Utility];
 
+	rollTraits(rng);
 }

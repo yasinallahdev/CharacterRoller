@@ -22,4 +22,7 @@ public:
 
 	Character(uint64_t level, std::string name, std::shared_ptr<std::mt19937> rng);
 
+	void rollTraits(std::shared_ptr<std::mt19937> rng);
+
+	void combineAndRerollTraits(std::shared_ptr<std::mt19937> rng);
 };

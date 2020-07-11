@@ -60,8 +60,33 @@ int main(int* argc, const char** argv) {
 
         Character theCharacter(npcLevel, npcName, randomEngine);
 
-        std::cout << "Would you like to input information for another character? (Y/N)? ";
         char choice = 'N';
+        bool upgradeCharacter = false;
+        uint64_t timesUpgraded = 0;
+
+        do {
+
+            upgradeCharacter = false;
+
+            if (timesUpgraded > 0) {
+                std::cout << "\nYou have upgraded " << timesUpgraded << " times.";
+            }
+            std::cout << "\nWould you like to combine the stat and trait points for this character to upgrade them? (Y/N): ";
+            std::cin >> choice;
+
+            if ((choice == 'Y') || (choice == 'y')) {
+                upgradeCharacter = true;
+                ++timesUpgraded;
+                theCharacter.combineAndRerollTraits(randomEngine);
+            }
+
+        } while (upgradeCharacter);
+
+        std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+
+        choice = 'N';
+
+        std::cout << "\nWould you like to input information for another character? (Y/N)?: ";
         std::cin >> choice;
 
         if ((choice == 'Y') || (choice == 'y')) {
